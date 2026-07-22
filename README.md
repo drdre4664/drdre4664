@@ -14,7 +14,7 @@ and security tooling built from scratch.
 
 | Project | What I Built |
 |---------|-------------|
-| [Enterprise SOC Automation Platform](https://github.com/drdre4664/enterprise-soc-platform) | Multi-vector SOC platform — 15 alert types, MITRE ATT&CK mapping, SOAR enrichment, threat hunting, executive reporting |
+| [Threat Intelligence Automation Platform](https://github.com/drdre4664/threat-intelligence-automation-platform) | Multi-vector SOC platform — 15 alert types, MITRE ATT&CK mapping, SOAR enrichment, threat hunting, executive reporting |
 | [Enterprise Attack Detection Lab](https://github.com/drdre4664/enterprise-attack-detection-lab) | Real brute force + SQL injection attacks against a live Flask server, detected in real time with MITRE-mapped incident tickets |
 | [AWS Cloud Threat Detection](https://github.com/drdre4664/AWS-cloud-threat-detection) | CloudTrail + CloudWatch alarms deployed with Terraform — root login, IAM changes, security group modifications. CIS-aligned. |
 | [Splunk Threat Detection Lab](https://github.com/drdre4664/splunk-threat-detection-lab) | Phishing, brute force, lateral movement SPL detection rules with threat hunting playbook |
